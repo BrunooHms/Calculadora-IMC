@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(212, 195, 38);
+    background-image: url("img/fundoTela.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+section {
+    color: black;
+    background-color: rgb(255, 191, 0);
+    padding: 20px;
+    margin: 5%;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    
+}
+
